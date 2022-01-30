@@ -1,3 +1,5 @@
+// promena za github repozitorijum
+
 // pristupanje elementima html-a
 const city = document.querySelector('.city');
 const date = document.querySelector('.date');
